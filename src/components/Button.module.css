@@ -1,0 +1,52 @@
+/* Button.module.css */
+.chatButton {
+    border: solid blue 1px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: blue;
+    transition: background-color 0.25s ease, border 0.25s ease;
+  }
+  
+.chatButton:hover {
+    background-color: rgb(48, 48, 255);
+    border: solid rgb(48, 48, 255) 1px; /* Color changes to red when hovered */
+}
+
+.promptButton {
+    border: solid blue 1px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: blue;
+    height: 100px;
+    width: 190px;
+    transition: background-color 0.25s ease, border 0.25s ease;
+    font-size: 14px;
+}
+
+.promptButtonEdit {
+    border: solid darkgrey 1px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(97, 97, 97);
+    height: 100px;
+    width: 190px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.inputBox {
+    width: 150px;
+    text-align: center;
+    background-color: grey;
+}
+
+  
+.promptButton:hover {
+    background-color: rgb(48, 48, 255);
+    border: solid rgb(48, 48, 255) 1px;
+}
+  

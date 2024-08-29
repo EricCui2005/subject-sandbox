@@ -1,0 +1,471 @@
+﻿1
+00:00:00,150 --> 00:00:02,950
+- In previous lessons, we've
+looked at campaign finance.
+
+2
+00:00:03,270 --> 00:00:04,890
+How campaigns are very expensive
+
+3
+00:00:05,260 --> 00:00:07,760
+and they need to gather
+money from various areas
+
+4
+00:00:07,760 --> 00:00:09,610
+in order to actually fund themselves.
+
+5
+00:00:09,850 --> 00:00:11,400
+Today we're gonna look at PACs.
+
+6
+00:00:11,450 --> 00:00:13,463
+Also called political action committees.
+
+7
+00:00:13,840 --> 00:00:15,400
+These are when groups
+of people come together
+
+8
+00:00:15,400 --> 00:00:18,393
+in order spot certain
+candidates or legislation.
+
+9
+00:00:19,010 --> 00:00:20,120
+There's two different type of PACs
+
+10
+00:00:20,120 --> 00:00:21,670
+that I want you to be aware of.
+
+11
+00:00:22,150 --> 00:00:24,813
+Number one are called
+separate segregated fund.
+
+12
+00:00:25,650 --> 00:00:26,743
+Also SSF.
+
+13
+00:00:27,600 --> 00:00:29,640
+This is an account that
+is being used by a group
+
+14
+00:00:29,640 --> 00:00:33,713
+that is directly connected
+to a candidate or a campaign.
+
+15
+00:00:34,140 --> 00:00:36,690
+Therefore, this money is
+gonna be highly regulated.
+
+16
+00:00:38,517 --> 00:00:41,943
+On the other hand, we have
+a non-connected committee
+
+17
+00:00:43,100 --> 00:00:44,550
+As you can see from the title,
+
+18
+00:00:44,550 --> 00:00:46,660
+this is a committee that
+is not directly connected
+
+19
+00:00:46,660 --> 00:00:47,700
+to a candidate
+
+20
+00:00:48,130 --> 00:00:50,613
+and therefore it may
+raise unlimited funds.
+
+21
+00:00:52,240 --> 00:00:53,540
+It should be noted though,
+
+22
+00:00:53,850 --> 00:00:55,010
+these non-connected committees
+
+23
+00:00:55,010 --> 00:00:56,070
+and super PACS in general,
+
+24
+00:00:56,070 --> 00:00:58,650
+even if they're not directly
+connected to a candidate
+
+25
+00:00:58,650 --> 00:01:01,910
+are gonna look to what that
+candidate that they support
+
+26
+00:01:01,910 --> 00:01:03,453
+and like wants to be done,
+
+27
+00:01:03,520 --> 00:01:06,770
+even by signaling and
+then go in that path.
+
+28
+00:01:06,770 --> 00:01:08,443
+We're gonna look more to that now.
+
+29
+00:01:08,970 --> 00:01:10,570
+There's three different types of PACs
+
+30
+00:01:10,570 --> 00:01:12,520
+that we should really pay attention to.
+
+31
+00:01:12,770 --> 00:01:14,933
+Number one is called a super PAC.
+
+32
+00:01:17,510 --> 00:01:19,590
+They're much larger
+and they're not limited
+
+33
+00:01:19,590 --> 00:01:21,740
+in how much money they
+can raise and spend.
+
+34
+00:01:22,060 --> 00:01:25,723
+However, they must not directly
+coordinate with campaigns.
+
+35
+00:01:26,280 --> 00:01:28,483
+That's why I'm talking
+about that gray area.
+
+36
+00:01:28,710 --> 00:01:31,700
+They may not be in communication
+overtly with the campaign
+
+37
+00:01:31,880 --> 00:01:33,930
+but they're gonna listen to
+what the campaign is saying
+
+38
+00:01:33,930 --> 00:01:36,790
+and what they're pushing for
+and what that campaign may need
+
+39
+00:01:36,790 --> 00:01:38,940
+in order to become the
+one who wins the election.
+
+40
+00:01:38,940 --> 00:01:41,640
+And the super PAC is gonna
+try to help in that effort.
+
+41
+00:01:42,310 --> 00:01:44,173
+Number two is called a hybrid PAC.
+
+42
+00:01:45,340 --> 00:01:48,340
+They're hybrid because they
+have two separate bank accounts.
+
+43
+00:01:48,690 --> 00:01:51,340
+One that can coordinate
+directly with the candidate
+
+44
+00:01:51,350 --> 00:01:53,923
+and one that cannot,
+similar to the super PAC.
+
+45
+00:01:54,350 --> 00:01:57,293
+The last PAC we're gonna talk
+about is leadership PACs.
+
+46
+00:01:58,480 --> 00:01:59,870
+These are controlled by a candidate
+
+47
+00:01:59,870 --> 00:02:01,883
+or an individual currently in office.
+
+48
+00:02:02,200 --> 00:02:03,900
+They're gonna support other candidates
+
+49
+00:02:03,900 --> 00:02:05,863
+or other people running for reelection.
+
+50
+00:02:06,360 --> 00:02:08,710
+And the other people that are
+actually receiving the support
+
+51
+00:02:08,710 --> 00:02:11,853
+and the money aren't in control
+of these leadership PACs.
+
+52
+00:02:12,070 --> 00:02:13,520
+So let break it down further.
+
+53
+00:02:14,070 --> 00:02:15,093
+I may be a Senator.
+
+54
+00:02:15,330 --> 00:02:16,910
+I control this leadership PAC.
+
+55
+00:02:16,910 --> 00:02:18,920
+I see another Senator
+running for a reelection
+
+56
+00:02:18,920 --> 00:02:20,660
+and I like that Senator
+and I wanna help them.
+
+57
+00:02:20,660 --> 00:02:22,960
+I can divert that money
+from my leadership PAC
+
+58
+00:02:23,020 --> 00:02:24,333
+to that person's campaign.
+
+59
+00:02:24,670 --> 00:02:27,280
+The person that received the
+funds cannot control that.
+
+60
+00:02:27,280 --> 00:02:28,630
+What I do, what I don't do,
+
+61
+00:02:28,840 --> 00:02:30,770
+but if they receive it that's fine.
+
+62
+00:02:30,770 --> 00:02:33,070
+They can use that money
+to run for reelection.
+
+63
+00:02:33,260 --> 00:02:35,020
+So we've seen three
+different types of PACs
+
+64
+00:02:35,020 --> 00:02:36,810
+and how they differ in
+what they're allowed to do
+
+65
+00:02:36,810 --> 00:02:37,773
+and what not to do.
+
+66
+00:02:37,960 --> 00:02:40,910
+Let's look at how this money
+has grown over the past years.
+
+67
+00:02:42,010 --> 00:02:44,283
+Within PACs, there'll
+be two different types.
+
+68
+00:02:45,110 --> 00:02:48,090
+Dark money, refers to political
+spending contributions
+
+69
+00:02:48,190 --> 00:02:49,723
+that are not disclosed.
+
+70
+00:02:50,120 --> 00:02:51,530
+So it's happening in the dark.
+
+71
+00:02:51,530 --> 00:02:53,750
+It's not transparent about
+where this money is coming from,
+
+72
+00:02:53,750 --> 00:02:54,803
+who it's going to.
+
+73
+00:02:55,640 --> 00:02:58,903
+501s are nonprofit corporations.
+
+74
+00:02:58,910 --> 00:03:01,350
+So they're not being run to
+actually benefit the people
+
+75
+00:03:01,350 --> 00:03:03,570
+who run that corporation
+like a typical business
+
+76
+00:03:03,570 --> 00:03:05,313
+like Target or J.Crew would be.
+
+77
+00:03:05,790 --> 00:03:08,770
+They're doing it just
+to advance their causes
+
+78
+00:03:08,770 --> 00:03:10,030
+that they think are important.
+
+79
+00:03:10,030 --> 00:03:12,030
+I want you to take a look at this graph.
+
+80
+00:03:12,350 --> 00:03:15,000
+What do you see that happened
+after the 2010 decision
+
+81
+00:03:15,470 --> 00:03:18,220
+that the Supreme court had
+in terms of Citizens United.
+
+82
+00:03:19,060 --> 00:03:20,313
+In 2004,
+
+83
+00:03:20,770 --> 00:03:23,403
+there was only $5 million, about,
+
+84
+00:03:23,720 --> 00:03:24,943
+in dark money spending.
+
+85
+00:03:25,920 --> 00:03:30,203
+By 2008 there was almost
+70 million spending.
+
+86
+00:03:31,250 --> 00:03:32,843
+After citizens United,
+
+87
+00:03:32,900 --> 00:03:36,543
+there was $310 million
+in dark money spending.
+
+88
+00:03:36,960 --> 00:03:39,090
+Where it's not clear where
+that money's coming from
+
+89
+00:03:39,090 --> 00:03:40,890
+and who in particular it's going to.
+
+90
+00:03:41,430 --> 00:03:42,580
+That lack of transparency
+
+91
+00:03:42,580 --> 00:03:43,900
+is something that some people think
+
+92
+00:03:43,900 --> 00:03:45,993
+is a negative outta Citizens United.
+
+93
+00:03:46,270 --> 00:03:49,023
+But it makes it harder to
+see who's influencing who,
+
+94
+00:03:49,070 --> 00:03:52,053
+who's got control over somebody
+else via those donations.
+
+95
+00:03:52,450 --> 00:03:54,800
+So today we talked about
+political action committees.
+
+96
+00:03:54,800 --> 00:03:56,770
+What they are, the different types
+
+97
+00:03:57,020 --> 00:03:59,820
+and how their influence has
+grown since Citizens United.
+
+98
+00:03:59,880 --> 00:04:02,420
+It's important that you as
+an active member of democracy
+
+99
+00:04:02,420 --> 00:04:03,423
+understand this.
+
+100
+00:04:03,480 --> 00:04:05,560
+Number one, so you can
+contribute if you'd like,
+
+101
+00:04:05,560 --> 00:04:06,970
+but also so you can understand
+
+102
+00:04:06,970 --> 00:04:09,170
+where is the support for
+a politician coming from
+
+103
+00:04:09,170 --> 00:04:10,850
+and is that having an undue influence
+
+104
+00:04:10,850 --> 00:04:12,223
+on their eventual actions?
+
