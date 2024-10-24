@@ -1,5 +1,7 @@
 # Subject - Stanford Sandbox
 
+MVP Application Prototyp
+
 ## Getting Started
 
 First, run the development server:
