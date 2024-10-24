@@ -1,6 +1,5 @@
-# Subject - Stanford Sandbox
+# Subject - Stanford Sandbox MVP Prototype
 
-**MVP Application Prototype**
 
 ## Getting Started
 
