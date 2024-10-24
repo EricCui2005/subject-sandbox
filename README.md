@@ -1,6 +1,6 @@
 # Subject - Stanford Sandbox
 
-MVP Application Prototyp
+MVP Application Prototype
 
 ## Getting Started
 
